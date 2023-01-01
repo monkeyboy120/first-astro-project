@@ -9,7 +9,6 @@ image:
     alt: 'The Astro logo with the word One.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-Published on: 2022-12-31
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
